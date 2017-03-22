@@ -19,10 +19,19 @@ and prepare for that night as they come to us in a quick and easy way. :tada:
 This is the master list of topics, some of which will have an obvious owner, others
 which may not.
 
++ [ ] Overview of the past year
+  + Overview of projects & Successes
+    + Feedback from clients
+  + Interesting lessons learned
+    + Working with the clients we *want* to work with
+    + Open source & reusable materials & components
+    + AS story - taking on equity on a business
+    + Evolving our offering and coming closer to our mission
++ [ ] Mission and Vision Statement
++ [ ] Overview of 4 arms of dwyl and new offerings
 + [ ] Official welcome to Mark & explanation of role
-+ [ ] Successes of the year
-  + Feedback from clients
-+ [ ] Feedback mechanisms going forward (keep this light, may still be in flux)
-+ [ ] Financial overview [Mark]
-+ [ ] Context for FTEs and plan going forward (hinges on financials)
-+ [ ] Direction for the year
++ [ ] Operational overview [Mark]
+  + [ ] Feedback mechanisms going forward (keep this light, may still be in flux)
++ [ ] Technology overview [Nelson]
++ [ ] Key timeline points this year (linked to financial forecast)
+  + [ ] Context for FTEs and plan going forward (hinges on financials)
