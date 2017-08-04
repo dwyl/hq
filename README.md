@@ -6,7 +6,8 @@ The hq repo is the home of all of dwyl's operations and administration.
 dwyl exists with one mission in mind:
 > Empower people to sustainably unlock their potential and pursue their passion.
 
-If you'd like to know more, please read on or take a look at https://github.com/dwyl/start-here
+If you'd like to know more or join the dwyl community,
+please read on or take a look at https://github.com/dwyl/start-here
 
 
 # One Metric That Matters
@@ -112,6 +113,7 @@ I see the key task towards this as _automating_ as many systems as possible so t
 is available and ***minimises repetitive manual input*** wherever _possible_.
 HOWEVER, we also need to do this in such a way that ***minimises tooling*** and keeps
 to our 'single source of truth' principle to ensure **frictionless updating**.
+This is being initiated with https://github.com/dwyl/process-handbook/issues/35
 
 "Operations" is not _directly_ responsible for bringing in revenue or _creating_ the
 product, but is **critical** to _saving everyone time_ and ensuring that **all** of
