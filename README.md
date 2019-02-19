@@ -136,4 +136,4 @@ others do the same**.
 ------
 
 
-DWYL LTD is incorporated and registered in England and Wales with company number 09525434 and registered office is at DWYL LTD, 104 Mary Datchelor Close, London, SE5 7DY, United Kingdom.
+DWYL LTD is incorporated and registered in England and Wales with company number 09525434
