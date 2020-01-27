@@ -2,12 +2,9 @@
 
 The hq repo is the home of all of dwyl's operations and administration.
 
-# Mission Statement
-dwyl exists with one mission in mind:
-> Empower people to sustainably unlock their potential and pursue their passion.
-
-If you'd like to know more or join the dwyl community,
-please read on or take a look at https://github.com/dwyl/start-here
+If you'd like to know more about dwyl's purpose and aims or
+to join the dwyl community,
+please take a look at https://github.com/dwyl/start-here
 
 
 # One Metric That Matters
